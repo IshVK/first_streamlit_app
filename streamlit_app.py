@@ -1,9 +1,12 @@
 import streamlit
 
-streamlit.title('My Parents doesnt own a healthy diner')
+streamlit.title('My Parents own a healthy diner')
 
-streamlit.header('My Mom cooks delicious meals')
+streamlit.header('The Breakfast Favourites')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
 
-
-streamlit.text('The Breakfast menu is so simple but the lunch has more varities') 
-streamlit.text('and the dinner is soooo good')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.text('👍😢😢😢😢😢😢😢😢')
